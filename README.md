@@ -1,0 +1,1 @@
+# Bidiretoinal-RNN-with-layers-of-Simple-RNN
