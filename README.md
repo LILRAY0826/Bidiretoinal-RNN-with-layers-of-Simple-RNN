@@ -1,11 +1,8 @@
-# Bidiretoinal-RNN-with-layers-of-Simple-RNN
-
-Dataset download link: http://134.208.3.118/~ccchiang/DLFA/dataset.zip
-
 # Deep Learning - Bidiretoinal RNN with layers of Simple RNN
 
 > #### **My Github with open source (Fully code):**
 > https://github.com/LILRAY0826/Bidiretoinal-RNN-with-layers-of-Simple-RNN.git
+> Dataset download link: http://134.208.3.118/~ccchiang/DLFA/dataset.zip
 
 
 *I . Data Preprocessing*
